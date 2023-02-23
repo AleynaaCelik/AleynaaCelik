@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="[https://jibaleysolution.fra1.cdn.digitaloceanspaces.com/file/1_OohqW5DGh9CQS4hLY5FXzA.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Ftr-tr%2Ffotograf%2Fkadin-yazilim-muhendisi-bilgisayarda-kodlama-3861972%2F&psig=AOvVaw2SxrsVId3kPldLUYBhiweL&ust=1677222438377000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLi0tNGKq_0CFQAAAAAdAAAAABAE)" align="center" style="width: 100%" />
+<img src="https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" align="center" style="width: 100%" />
 </div>  
   
 
