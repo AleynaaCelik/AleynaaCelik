@@ -35,7 +35,7 @@ I am a computer engineering student at Bilecik Şeyh Edebali  University .  <img
 I recently graduated 😄
 - :telescope: I am currently learning Linux and .Net Core. I aim to work with mono on Linux in the future.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fatmaerciyas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleyna-çelik/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-aleynacelik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleyna-çelik/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
