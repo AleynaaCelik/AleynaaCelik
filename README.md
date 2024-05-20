@@ -39,7 +39,7 @@ I recently graduated 😄
 
 #### Backend
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/dotnet.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/blazor.png" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
 </div>
@@ -57,7 +57,7 @@ I recently graduated 😄
 
 ## Connect with me  
 <div align="center">
-  <a href="https://github.com/aleyna-celik" target="_blank">
+  <a href="https://github.com/AleynaaCelik" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/aleyna_celik" target="_blank">
@@ -73,12 +73,11 @@ I recently graduated 😄
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleyna-celik&count_private=true&show_icons=true&theme=tokyonight" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AleynaaCelik&count_private=true&show_icons=true&theme=tokyonight" align="center" />
 </div>  
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aleyna-celik&&style=flat-square" align="center" />
-</div>  
-  
+  <img src="https://komarev.com/ghpvc/?username=AleynaaCelik&&style=flat-square" align="center" />
+</div>
