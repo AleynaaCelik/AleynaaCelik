@@ -81,3 +81,4 @@ I recently graduated 😄
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aleyna-celik&&style=flat-square" align="center" />
 </div>  
+  
