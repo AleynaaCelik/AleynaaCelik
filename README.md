@@ -9,17 +9,15 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a computer engineer graduated from Bilecik Şeyh Edebali University. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a computer engineer graduated from Bilecik Şeyh Edebali University, Class of 2023. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I recently graduated 😄
-
-- :telescope: I am currently learning DevOps and .Net Core. I aim to work with mono on DevOps in the future.
+- :telescope: I am currently working with .NET and Docker Kubernetes.
 - :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-aleynacelik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleyna-çelik/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <table><tr><td valign="top" width="33%">
-  
+
 #### Frontend
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
@@ -39,12 +37,12 @@ I recently graduated 😄
 
 #### DevOps
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 ## Connect with me  
 <div align="center">
@@ -58,17 +56,4 @@ I recently graduated 😄
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
   <a href="https://medium.com/@AleynaaCelik" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
-  </a>  
-</div>  
-
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleynaaCelik&count_private=true&show_icons=true&theme=tokyonight" align="center" />
-</div>  
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AleynaaCelik&&style=flat-square" align="center" />
-</div>
+    <img src="https://img.shields.io/badge/medium-%232929
