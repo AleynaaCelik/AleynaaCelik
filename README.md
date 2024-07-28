@@ -56,4 +56,17 @@ I am a computer engineer graduated from Bilecik Şeyh Edebali University, Class 
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
   <a href="https://medium.com/@AleynaaCelik" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%232929
+    <img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
+  </a>  
+</div>  
+
+## Github Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AleynaaCelik&count_private=true&show_icons=true&theme=tokyonight" align="center" />
+</div>  
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AleynaaCelik&&style=flat-square" align="center" />
+</div>
