@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
   <h1>Hi, I'm Aleyna 👋</h1>
-  <p>Enthusiastic Backend Engineer 👩‍💻 | Passionate about Software Developer 🚀</p>
+  <p>Enthusiastic Backend Engineer 👩‍💻 | Passionate about Software Development 🚀</p>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- 🎓 I graduated from **Bilecik Şeyh Edebali University**, Class of 2023.
+- 🎓 Graduated from **Bilecik Şeyh Edebali University**, Class of 2023.
 - 🌟 Enthusiastic about learning new technologies and solving real-world problems.
 - 🌐 Currently working with **.NET** and **Docker Kubernetes** to build scalable backend systems.
 - 📚 Interested in Cloud Computing and DevOps practices.
@@ -42,38 +42,31 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-
-#### Frontend
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-</div>
-
-</td>
+      <h4>Frontend</h4>
+      <div align="center">
+        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+      </div>
+    </td>
     <td align="center" width="33%">
-
-#### Backend
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://profilinator.rishav.dev/skills-assets/blazor.png" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
-</div>
-
-</td>
+      <h4>Backend</h4>
+      <div align="center">
+        <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/blazor.png" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
+      </div>
+    </td>
     <td align="center" width="33%">
-
-#### DevOps
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-</div>
-
-</td>
+      <h4>DevOps</h4>
+      <div align="center">
+        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+        <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+      </div>
+    </td>
   </tr>
 </table>
 
----
 ---
 
 ### 📊 GitHub Stats
@@ -87,7 +80,6 @@
 </div>
 
 ---
-
 
 
 <div align="center">
