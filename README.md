@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
   <h1>Hi, I'm Aleyna 👋</h1>
-  <p>Enthusiastic Backend Engineer 👩‍💻 | Passionate about Software Development 🚀</p>
+  <p> Backend Engineer 👩‍💻 | Passionate about Software Development 🚀</p>
 </div>
 
 <div align="center">
